@@ -1,5 +1,14 @@
- _._     _,-'""`-._
-(,-.`._,'(       |\`-/|
-    `-.-' \ )-`( , o o)
-          `-    \`_`"'-
-Hello, Hãy nựng bé mèo 1 cái
+Changelog 1.8.0.0
+  + A-only devices now can flash though Toolbox 45
+  + Support install Magisk boot though Toolbox 45
+  + Increase Speaker quality by patching Dolby Atmost
+  + Add support Android 13 
+  + Add support Note 12 series
+  + Add Luna year in control center
+  + Disable secure flag (able to take screenshot in Incognito tab )
+  + 4k60fps for unsupport device
+  + Remove Joyose for better gaming experience
+  + EXT4 Device : Fixed Lost wallpaper
+  + EROFS device : Fixed Crash camera 
+  + VILI : Fixed overheat and indie drain
+  + INGRES : Fixed freezee in WildRift
