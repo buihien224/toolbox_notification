@@ -1,7 +1,18 @@
-Changelog 45
+We wish you a merry Christmas <3
+as a gift we will give all paid users 1 coin to upgrade miuivs 14
 
-- Added coin system, with coin you can install rom without time limit
-- Added Install Magisk boot
-- Supported A-only device flashing
-- Improved performance and fixed known bugs
-- Rom now will save in same folder with tool
+Changelog 1.8.0.1
+- Added "Suspend execution of cached applications" - "tombstone mechanism"
+- Removed 10 Second comfirm
+- Re-Enable Screen in Battery
+- New partition encryption , now rom only flashed with Toolbox 45.S
+
+Changelog 45.S
+- Compatible with 1.8.0.1 and earlier versions
+- Check ROM before flashing
+- Available 3 servers by default
+
+Download and Update now !
+  > Setup : https://j2c.cc/setup_user45s
+  > Portable : https://j2c.cc/user45s
+  
