@@ -1,18 +1,21 @@
-We wish you a merry Christmas <3
-as a gift we will give all paid users 1 coin to upgrade miuivs 14
+Wishing a successful and prosperous New Year to all users <3
 
-Changelog 1.8.0.1
-- Added "Suspend execution of cached applications" - "tombstone mechanism"
-- Removed 10 Second comfirm
-- Re-Enable Screen in Battery
-- New partition encryption , now rom only flashed with Toolbox 45.S
+Changelog 1.8.0.5
+- Added MIUI 14 Launcher Mod by @kakashi1v1
+- Adapt to MIUI 14 Android 13
 
-Changelog 45.S
-- Compatible with 1.8.0.1 and earlier versions
-- Check ROM before flashing
-- Available 3 servers by default
+Changelog 48
+- Fixed excessive resource consumption 
+- Fixed list rom cant be displayed
+- Fixed no notification when key has expired
+- Fixed can't install ROM after it's downloaded
+- Fixed download ROM again and again
+- Improved user interface a bit
+- Improved interaction between processes
+- Allows to choose location to save ROM
+- Stop processes when exiting Toolbox
 
 Download and Update now !
-  > Setup : https://j2c.cc/setup_user45s_hotfix
-  > Portable : https://j2c.cc/user45s_hotfix
+  > Setup : updating ...
+  > Portable : updating ...
   
