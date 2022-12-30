@@ -1,0 +1,41 @@
+Common :
+    - Fully remove china and miui trash app
+    - Add all language from MIUI Global
+    - Add Full Google app 
+    - Android Auto, Google Wear, Nearby Share .. all work
+    - GPS in thirty app work well
+    - Optimized temperature and overall performance
+
+Framework :
+    - Fixed delay notification
+    - Enable force dark mode for all app
+    - Remove stock stupid clipboard manager
+    - Allow take screenshot in incognito mode
+
+Miui Feature :
+    - Enable 90hz for Snapdragon SOC
+    - Enable High-end device for mid and low device
+
+Sound :
+    - Add Harman Kardon sound
+    - Increase volume and quality in Dynamic mode
+
+Setting :
+    - Add Google Account section
+    - Add ability change region
+    - Add ability use thirty-party launcher
+    - Add Tombstone optoin in dev setting
+
+SystemUI :
+    - Add Nearby shortcut in CC
+    - Enable display notification on lockscreen default
+    - Enable push notification default
+    - Enable use app's sound notification
+    - Disable MIUI notification whitelist
+    - Disable QS media resumption
+
+Launcher :
+    - Enable all Global function in Stock launcher
+      + Double tap to sleep
+      + Google Discovery
+      + Google search bar
