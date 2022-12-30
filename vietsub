@@ -5,6 +5,7 @@ Common :
     - Android Auto, Google Wear, Nearby Share .. all work
     - GPS in thirty app work well
     - Optimized temperature and overall performance
+    - Enable VoLTE
 
 Framework :
     - Fixed delay notification
@@ -15,10 +16,6 @@ Framework :
 Miui Feature :
     - Enable 90hz for Snapdragon SOC
     - Enable High-end device for mid and low device
-
-Sound :
-    - Add Harman Kardon sound
-    - Increase volume and quality in Dynamic mode
 
 Setting :
     - Add Google Account section
@@ -34,8 +31,3 @@ SystemUI :
     - Disable MIUI notification whitelist
     - Disable QS media resumption
 
-Launcher :
-    - Enable all Global function in Stock launcher
-      + Double tap to sleep
-      + Google Discovery
-      + Google search bar
