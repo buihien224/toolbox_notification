@@ -1,21 +1,26 @@
 Wishing a successful and prosperous New Year to all users <3
 
-Changelog 1.8.0.6
-  - Enable display notification on lockscreen default
-  - Enable push notification default
-  - Enable use app's sound notification
-  - Disable MIUI notification whitelist
-  - Disable QS media resumption
-  - Fixed Google discovery not work
+Changelog 1.8.0.7
+  - Bug fixes and performance improvements
+  - Allow to disable/enable system apps
+  - Allow downloading and using Super Icon
+  - Temporarily disable region change
 
 
-Changelog 49
-  - Fixed known issue
-  - Add Callback feature - save your time when checking for and downloading new updates
-  - Add Infomation screen, bring you close to me
+Changelog 50
+  - Added Login system for re-seller
+  - Added Sever_vip only for Paid user
+  - Added free space checking for all disk
+  - Fixed download loop, slow download
+  - Fixed not found rom after download
+  - Fixed cant use coin to install rom
+  - Fixed Auth window not appear when expired
+  - New path selection algorithm
+  - Stop flashing when FAILED appear
+  - Remove flashing missing partiton
+
   
 
 Download and Update now !
-  > Setup : https://j2c.cc/setuptoolbox49
-  > Portable : https://j2c.cc/toolbox49
+  - https://t.me/bhlnk_storage/55
   
