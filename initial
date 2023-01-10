@@ -20,6 +20,10 @@ Changelog 50
   - New path selection algorithm
   - Stop flashing when FAILED appear
   - Remove flashing missing partition
+  
+  * We use Inno Setup to create setup version
+    but it detect as virus if you know solution
+    please tell us ! thanks so much
 
   
 
