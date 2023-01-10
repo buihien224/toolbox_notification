@@ -18,7 +18,7 @@ Changelog 50
   - Fixed Auth window not appear when expired
   - New path selection algorithm
   - Stop flashing when FAILED appear
-  - Remove flashing missing partiton
+  - Remove flashing missing partition
 
   
 
