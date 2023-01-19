@@ -20,9 +20,7 @@ Sound :
     - Add Harman Kardon sound
     - Increase volume and quality in Dynamic mode
 
-Launcher :
-    - Enable all Global function in Stock launcher
-      + Double tap to sleep
-      + Google Discovery
-      + Google search bar
+Framework :
+    - Allơw to change region
+    - Patch XOPT , optimize app running and battery
 
