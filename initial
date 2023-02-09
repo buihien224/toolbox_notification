@@ -1,28 +1,22 @@
 "Strive not to be a success, but rather to be of value"
                                       -Albert Einstein-
 
-Changelog 1.9.0.3
-  - System optimization and bug fixes
-  - Remove Yojose limmition
-  - Remove Tombstone ( cause notification delay in 12/12s series )
-  - Patch Dax for Headphone and Other 
-  - Patch Dax for Ext4 device
-  - More Vietnamese translate
-  - Offical support Mi13/K60
+Changelog 1.9.0.6
+  - Being test
 
 
-Changelog 50
-  - Added Login system for re-seller
-  - Added Sever_vip only for Paid user
-  - Added free space checking for all disk
-  - Fixed download loop, slow download
-  - Fixed not found rom after download
-  - Fixed cant use coin to install rom
-  - Fixed Auth window not appear when expired
-  - New path selection algorithm
-  - Stop flashing when FAILED appear
-  - Remove flashing missing partition
-  
+Changelog 51
+  - Re-write Online-check function
+    + Check all ROM 
+    + Classify ROM
+    + Latest label
+  - Add Run button - Alow run function with flash rom
+    + Remove magisk module
+    + Install magisk boot
+    + Format data
+    + Reboot
+  - Support Full flash device launch with android 13
+
   * We use Inno Setup to create setup version
     but it detect as virus if you know solution
     please tell us ! thanks so much
