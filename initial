@@ -10,7 +10,7 @@ Changelog 51
     + Check all ROM 
     + Classify ROM
     + Latest label
-  - Add Run button - Alow run function with flash rom
+  - Add Run button - Allow run function without flash rom
     + Remove magisk module
     + Install magisk boot
     + Format data
