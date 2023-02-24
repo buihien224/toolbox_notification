@@ -19,6 +19,8 @@ Changelog 53
   - Improved security and performance
   - Save array values to cloud
   
+  * Sever1 is Google Drive now working again
+  
   * We use Inno Setup to create setup version
     but it detect as virus if you know solution
     please tell us ! thanks so much
