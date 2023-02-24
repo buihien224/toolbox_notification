@@ -1,23 +1,24 @@
-"Remember, the storm is a good opportunity for the pine and the cypress to show their strength and their stability."
--Hồ Chí Minh-
+Changelog 2.0.0.2
+  - Skip patch app if app in data-app
+  - Redure custom props
+  - Complete disable Bluetooth
+  - Fixed theme's widget cant use
+  - Fixed Icon Shortcut not work
+  - set OatArtifactDeletion false
+  - Replace stock china Health app with international version
+  - Update some lib and bin
+  - Increase water mark protect character to 50
+  - Page align and store uncompressed native libraries
+  - Fixed skewed layout, Upgrade to latest security
+  - Set hibernate query is true
+  - Add support pick contacts from MIUI Contacts in Emergency Contacts
 
-Changelog 2.0.0.1
-  - Complete fix for notification delay
-  - Allow Google's core app alive during night ( especially Gmail )
-  - Allow restricted setiings ( especially huawei's app )
-  - Allow core services to run without autostart
-  - Allow to install Youtube Vanced without turning off MIUII optimization
-  - Enable default permissions related lockscreen ( better for OTP app )
-  - Enable Google permission manager parallel to default
-  - Use google package installer instead of MIUI
-  - Remove Getapp, Chrome and some other junk file
-  - Upstream some MIUI system app
 
-
-Changelog 52
-  - Allow devices with codenames ending "in" access ROM
-  - Optimize app opening speed and load config
-
+Changelog 53
+  - Only setup file realse now
+  - Improved security and performance
+  - Save array values to cloud
+  
   * We use Inno Setup to create setup version
     but it detect as virus if you know solution
     please tell us ! thanks so much
