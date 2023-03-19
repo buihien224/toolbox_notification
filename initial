@@ -1,31 +1,18 @@
-Changelog 2.0.0.2
-  - Skip patch app if app in data-app
-  - Redure custom props
-  - Complete disable Bluetooth
-  - Fixed theme's widget cant use
-  - Fixed Icon Shortcut not work
-  - set OatArtifactDeletion false
-  - Replace stock china Health app with international version
-  - Update some lib and bin
-  - Increase water mark protect character to 50
-  - Page align and store uncompressed native libraries
-  - Fixed skewed layout, Upgrade to latest security
-  - Set hibernate query is true
-  - Add support pick contacts from MIUI Contacts in Emergency Contacts
+Changelog 2.0.0.5
+  - Fixed known bugs and even improved performance
+  - Support devices without China version
+  - Improved sound for devices running Android 13 shipped
+  - Update the latest system apps
 
-
-Changelog 53
-  - Only setup file realse now
-  - Improved security and performance
-  - Save array values to cloud
-  
-  * Sever1 is Google Drive now working again
-  
-  * We use Inno Setup to create setup version
-    but it detect as virus if you know solution
-    please tell us ! thanks so much
+Changelog 54
+  - Fluent interface style update
+  - Devices with multiple codenames will only detect the official codename
+  - Turn off the whole process when shutting down the interface
+  - Handling thread overlap errors
 
   
 Download and Update now !
-  - https://shared.miuivs.com/toolbox/setup-Toolbox-53.exe
+  - https://shared.miuivs.com/toolbox/Toolbox-54.exe
+  - https://shared.miuivs.com/toolbox/setup-Toolbox-54.exe
+  
   
