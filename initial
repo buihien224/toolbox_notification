@@ -1,9 +1,23 @@
-Changelog 2.0.0.5/2.0.1.5
-  - Fixed known bugs and even improved performance
-  - Support devices without China rom version
-  - Improved sound for devices running Android 13 shipped
-  - Update the latest system apps
-
+Changelog 2.1.0.0
+  - Fixed lost screen-recorder after reboot
+  - Add suffix Global for global base rom
+  - Fixed missing permission : securitycenter
+  - Fixed missing Gallery in Android 13 base device
+  - Able to root with init_boot.img
+  - Update audio config for K60 Pro
+  - Fixed launcher swipe up guesture not work
+  - Fixed launcher recent shortcut not work
+  - Fixed launcher swipe up from corner not work
+  - Fixed brightness issue in K40G
+  - Update thermal config for K50G
+  - Fixed banking app detect dirty prop ( detect root but we dont root )
+  - Fixed bootloader state in setting report Locked
+  - Fixed crash when make new event in Calendar
+  - Fixed FPS drop in some game ( cause by old security )
+  - Restore Scanner and Mi smart card ( it usefull )
+  - Fixed missing tons of necessary app ( Android 13 base )
+  
+  
 Changelog 54
   - Fluent interface style update
   - Devices with multiple codenames will only detect the official codename
