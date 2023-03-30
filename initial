@@ -16,6 +16,8 @@ Changelog 2.1.0.0
   - Fixed FPS drop in some game ( cause by old security )
   - Restore Scanner and Mi smart card ( it usefull )
   - Fixed missing tons of necessary app ( Android 13 base )
+  - Fixed crash some app
+  - Added Leica camera support
   
   
 Changelog 54
