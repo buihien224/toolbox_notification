@@ -1,27 +1,53 @@
+Bootloader : 
+    - Passed safetynet check
+    - Passed dirty prop check
+
 Common :
     - Fully remove china and miui trash app
     - Add all language from MIUI Global
-    - Add Full Google app 
+    - Add full Google Play Sevices 
     - Android Auto, Google Wear, Nearby Share .. all work
-    - GPS in thirty app work well
+    - GPS in thirty app work well, Support VoLTE 
+    - Disable dynamic FPS
+    - Enable blur effect for MTK device
+    - Turn off some useless feature
+    - Optimized for Gboard
     - Optimized temperature and overall performance
-    - Enable VoLTE
 
 Framework :
-    - Fixed delay notification
+    - Fixed delay and no notification
     - Enable force dark mode for all app
     - Remove stock stupid clipboard manager
+    - Disable App Hibernation
     - Allow take screenshot in incognito mode
+
+Dolby Atmost :
+    - Enable bass enhancer  
+    - Increase peek volume
+    - Surround boost
+
+Contact : 
+    - Remove Chinese services
+
+Gallery :
+    - Increase length of text in Protective Watermark
 
 Miui Feature :
     - Enable 90hz for Snapdragon SOC
-    - Enable High-end device for mid and low device
+    - Support ARCore 
+    - Support Sound Assist 
+    - Support Smart FPS
+    - Support Screen enhance engine
+    - Support AI display
+    - Support flash stock miui via updater
+    - Support switch 1,5k and FHD for diting
 
 Setting :
     - Add Google Account section
     - Add ability change region
     - Add ability use thirty-party launcher
-    - Add Tombstone optoin in dev setting
+    - Pick contact from MIUI Contact in SOS 
+    - Direct allow install app
 
 Launcher :
     - Enable all Global function in Stock launcher
@@ -36,5 +62,5 @@ SystemUI :
     - Enable push notification default
     - Enable use app's sound notification
     - Disable MIUI notification whitelist
-    - Disable QS media resumption
+    - Enable Media control button 
 
