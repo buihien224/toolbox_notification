@@ -1,16 +1,43 @@
+Bootloader : 
+    - Passed safetynet check
+    - Passed dirty prop check
+
 Common : 
     - All feature from VIETSUB
     - Free upload to GG Photo ( original quality )
     - Can get max graphic setting in some game (codm, pubg ..)
-    - Safetynet pass without change build.prop
     - Use Toolbox without plug device
     - Support Root via Toolbox
     - Fast update and support
     - Direct chat with developer
     - High bandwith when download ROM
+    - Support newest device
+
+Framework :
+    - Allow to change region
+    - Patch XOPT , optimize app running and battery
+    - Keep Misan font when turn off miui optimize 
+    - Allow install some app without turn off miui optimize 
+    - Prevent remove data-app after reboot
+    - Fix dark mode invidual app 
+
+Security Center :
+    - Remove network assistant
+    - Optimized app manager
+    - Enable dual permission center manager
+    - Remove abnormal scan
+    - Allow disable system app
+    - Remove 10s confirm
+
+Camera : 
+    - Leica user interface
+    - Leica filter, watermark
 
 Connect :
     - Re-enable Dual wifi ( slave wifi )
+
+Miinput :
+    - Hold power button to call GA
 
 PowerKeeper :
     - Force all app running in latest FPS
@@ -19,8 +46,3 @@ PowerKeeper :
 Sound :
     - Add Harman Kardon sound
     - Increase volume and quality in Dynamic mode
-
-Framework :
-    - Allow to change region
-    - Patch XOPT , optimize app running and battery
-

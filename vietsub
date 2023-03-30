@@ -1,7 +1,3 @@
-Bootloader : 
-    - Passed safetynet check
-    - Passed dirty prop check
-
 Common :
     - Fully remove china and miui trash app
     - Add all language from MIUI Global
@@ -63,4 +59,5 @@ SystemUI :
     - Enable use app's sound notification
     - Disable MIUI notification whitelist
     - Enable Media control button 
+    - Remove IOS like bluetooth control
 
