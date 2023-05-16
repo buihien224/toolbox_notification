@@ -1,31 +1,7 @@
-Changelog 2.1.0.0
-  - Fixed lost screen-recorder after reboot
-  - Add suffix Global for global base rom
-  - Fixed missing permission : securitycenter
-  - Fixed missing Gallery in Android 13 base device
-  - Able to root with init_boot.img
-  - Update audio config for K60 Pro
-  - Fixed launcher swipe up guesture not work
-  - Fixed launcher recent shortcut not work
-  - Fixed launcher swipe up from corner not work
-  - Fixed brightness issue in K40G
-  - Update thermal config for K50G
-  - Fixed banking app detect dirty prop ( detect root but we dont root )
-  - Fixed bootloader state in setting report Locked
-  - Fixed crash when make new event in Calendar
-  - Fixed FPS drop in some game ( cause by old security )
-  - Restore Scanner and Mi smart card ( it usefull )
-  - Fixed missing tons of necessary app ( Android 13 base )
-  - Fixed crash some app
-  - Added Leica camera support
-  
-  
-Changelog 54
-  - Fluent interface style update
-  - Devices with multiple codenames will only detect the official codename
-  - Turn off the whole process when shutting down the interface
-  - Handling thread overlap errors
+Changelog 57
+  - Fixed stuck at "Set active slot A" when install VIETSUB
+  - Added support flashing MIUIVS/VIETSUB for A-only device
 
 Download and Update now !
-  - https://shared.miuivs.com/toolbox/Toolbox-54.exe
+  - https://github.com/buihien224/toolbox_notification/releases/download/1st/vstool57x.exe
   
