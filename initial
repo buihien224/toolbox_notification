@@ -1,7 +1,13 @@
-Changelog 57
-  - Fixed stuck at "Set active slot A" when install VIETSUB
-  - Added support flashing MIUIVS/VIETSUB for A-only device
+Changelog 58
+  - Add Release button to direct download update
+  - Add Copy button to copy token
+  - Add Refesh button to re-fetch data without re-open
+  - Remove unused function
+  - Multi-theard download rom
+  - Display internet speed, estimated time
+  - Fixed lost rom when close tool ( portable )
+  - Fixed Super partition not flash 
 
 Download and Update now !
-  - https://github.com/buihien224/toolbox_notification/releases/download/1st/vstool57x.exe
+  - https://github.com/buihien224/toolbox_notification/releases/download/58
   
