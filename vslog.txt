@@ -1,5 +1,17 @@
-1.0, Tính năng mới, Thêm tính năng A
-1.0, Tính năng mới, Thêm tính năng B
-1.0, Sửa lỗi, Sửa lỗi X
-2.0, Tính năng mới, Thêm tính năng C
-2.0, Sửa lỗi, Sửa lỗi Y
+2.1.0.8, Tính năng mới, Cho phép chuyển sang thanh trạng thái 1 màu ( giống rom Global )
+2.1.0.8, Tính năng mới, Thêm Overlay clipboard từ Android Gốc
+2.1.0.8, Tính năng mới, Thêm chế độ Siêu tối cho mọi máy
+2.1.0.8, Tính năng mới, Thêm chuyển độ sáng thủ công mượt mà
+2.1.0.8, Tính năng mới, Thêm đồ họa cao cho game Vương Giả Vinh Diệu
+2.1.0.8, Sửa lỗi, Theme màn hình khóa hoạt động không chính xác
+2.1.0.8, Sửa lỗi, Thay đổ phương thức Crack theme
+2.1.0.8, Sửa lỗi, MEMC không hoạt đông ở màn hình ngang
+2.1.0.8, Sửa lỗi, Làm đẹp không hoạt động trên thiết bị 8G2
+2.1.0.8, Sửa lỗi, Lựa chọn chế độ Tiết kiệm pin không hoạt động
+2.1.0.8, Sửa lỗi, Chế độ Ẩn danh MIUI , Hành vi ứng dụng không hoạt động
+2.1.0.8, Sửa lỗi, Thor - Selene bị bootloop
+2.1.0.8, Sửa lỗi, Bị mất sóng, chứng chỉ trên Chopin
+2.1.0.8, Nâng cấp, Bản dịch tiếng Việt
+2.1.0.8, Nâng cấp, Cải thiện loa ngoài cho 13 Ultra
+2.1.0.8, Nâng cấp, Thêm lại chế độ Harmankardon
+2.1.0.8, Nâng cấp, Tối ưu 120FPS trên thiết bị MTK
