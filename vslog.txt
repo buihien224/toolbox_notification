@@ -1,0 +1,5 @@
+1.0, Tính năng mới, Thêm tính năng A
+1.0, Tính năng mới, Thêm tính năng B
+1.0, Sửa lỗi, Sửa lỗi X
+2.0, Tính năng mới, Thêm tính năng C
+2.0, Sửa lỗi, Sửa lỗi Y
