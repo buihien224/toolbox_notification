@@ -16,3 +16,4 @@
 2.1.0.8; Nâng cấp; Thêm lại chế độ Harmankardon
 2.1.0.8; Nâng cấp; Tối ưu 120FPS trên thiết bị MTK
 2.1.0.9; Nâng cấp; Leica Camera cho các thiết bị : Marble, Rembradt, Mandrian, Redwood
+2.1.0.9; Sửa lỗi; Giảm FPS trong game, FPS không lên được cao nhất
