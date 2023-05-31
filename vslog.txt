@@ -15,6 +15,8 @@
 2.1.0.8; Nâng cấp; Cải thiện loa ngoài cho 13 Ultra
 2.1.0.8; Nâng cấp; Thêm lại chế độ Harmankardon
 2.1.0.8; Nâng cấp; Tối ưu 120FPS trên thiết bị MTK
+2.1.0.9; Tính năng mới; Thêm âm lịch vào thanh CC và bo tròn 1 số dialog (@hiends29)
 2.1.0.9; Nâng cấp; Leica Camera cho các thiết bị : Marble, Rembradt, Mandrian, Redwood
 2.1.0.9; Nâng cấp; Cập nhật lên phiên bản mới nhất các app : Chủ đề, Vault, và các app khác
 2.1.0.9; Sửa lỗi; Giảm FPS trong game, FPS không lên được cao nhất
+2.1.0.9; Sửa lỗi; Mất trung tâm thông báo kiểu cũ trên dòng 12S
