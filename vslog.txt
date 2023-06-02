@@ -20,4 +20,4 @@
 2.1.0.9; Nâng cấp; Cập nhật lên phiên bản mới nhất các app : Chủ đề, Vault, và các app khác
 2.1.0.9; Sửa lỗi; Giảm FPS trong game, FPS không lên được cao nhất
 2.1.0.9; Sửa lỗi; Mất trung tâm thông báo kiểu cũ trên dòng 12S
-2.1.0.9; Hỗ trợ; Các dòn Sweet, Spes, Vayu chính thức hỗ trợ MIUIVS/VIETSUB
+2.1.0.9; Hỗ trợ; Các dòng Sweet, Spes, Vayu, Courbet chính thức hỗ trợ MIUIVS/VIETSUB
