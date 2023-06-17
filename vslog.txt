@@ -31,3 +31,4 @@
 2.2.0.0; Tính năng mới; Ẩn icon tín hiệu mạng khi tắt mạng di động
 2.2.0.0; Unknown; Chuyển Joyose về mặc định, để game nuột hơn hãy tắt Joyose
 2.2.0.0; Unknown; Chuyển về thermal mặc định trên dòng 8Gen1+
+2.2.0.0; Unknown; Tắt nâng bàn phím cho dòng Mi Pad
