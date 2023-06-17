@@ -25,7 +25,9 @@
 2.2.0.0; Sửa lỗi; Màn hình không sáng khi có thông báo đến
 2.2.0.0; Sửa lỗi; Mất tùy chỉnh rung trong phần trợ năng/vật lý
 2.2.0.0; Sửa lỗi; Crash camera trên Poco F4
+2.2.0.0; Sửa lỗi; Mất tính năng làm đẹp camera trước trên dòng 8Gen2
 2.2.0.0; Tính năng mới; Bật Nearby share trong Thư viện, Thanh điều khiển
 2.2.0.0; Tính năng mới; Chuyển icon HD sang VoLTE ( trên cột sóng )
 2.2.0.0; Tính năng mới; Ẩn icon tín hiệu mạng khi tắt mạng di động
 2.2.0.0; Unknown; Chuyển Joyose về mặc định, để game nuột hơn hãy tắt Joyose
+2.2.0.0; Unknown; Chuyển về thermal mặc định trên dòng 8Gen1+
