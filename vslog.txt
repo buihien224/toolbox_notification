@@ -22,3 +22,10 @@
 2.1.0.9; Sửa lỗi; Giảm FPS trong game, FPS không lên được cao nhất
 2.1.0.9; Sửa lỗi; Mất trung tâm thông báo kiểu cũ trên dòng 12S
 2.1.0.9; Hỗ trợ; Các dòng Sweet, Spes, Vayu, Courbet chính thức hỗ trợ MIUIVS/VIETSUB
+2.2.0.0; Sửa lỗi; Màn hình không sáng khi có thông báo đến
+2.2.0.0; Sửa lỗi; Mất tùy chỉnh rung trong phần trợ năng/vật lý
+2.2.0.0; Sửa lỗi; Crash camera trên Poco F4
+2.2.0.0; Tính năng mới; Bật Nearby share trong Thư viện, Thanh điều khiển
+2.2.0.0; Tính năng mới; Chuyển icon HD sang VoLTE ( trên cột sóng )
+2.2.0.0; Tính năng mới; Ẩn icon tín hiệu mạng khi tắt mạng di động
+2.2.0.0; Unknown; Chuyển Joyose về mặc định, để game nuột hơn hãy tắt Joyose
