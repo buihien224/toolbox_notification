@@ -30,6 +30,8 @@
 2.2.0.0; Tính năng mới; Bật Nearby share trong Thư viện, Thanh điều khiển
 2.2.0.0; Tính năng mới; Chuyển icon HD sang VoLTE ( trên cột sóng )
 2.2.0.0; Tính năng mới; Ẩn icon tín hiệu mạng khi tắt mạng di động
+2.2.0.0; Tính năng mới; Tắt tự điều chỉnh tần số quét theo Scene
+2.2.0.0; Tính năng mới; Bật animation cho các thiết bị giá rẻ
 2.2.0.0; Unknown; Chuyển Joyose về mặc định, để game nuột hơn hãy tắt Joyose
 2.2.0.0; Unknown; Chuyển về thermal mặc định trên dòng 8Gen1+
 2.2.0.0; Unknown; Tắt nâng bàn phím cho dòng Mi Pad
