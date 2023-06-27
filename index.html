@@ -129,6 +129,7 @@
     var logs = content.split('\n'); // Tách nội dung thành từng dòng
 
     logs.forEach(function(log) {
+      console.log(log)
       var logParts = log.split(';'); // Tách dữ liệu trong mỗi dòng
       var version = logParts[0].trim();
       var category = logParts[1].trim();
