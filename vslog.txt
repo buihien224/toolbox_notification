@@ -35,3 +35,11 @@
 2.2.0.1; Unknown; Chuyển Joyose về mặc định, để game nuột hơn hãy tắt Joyose
 2.2.0.1; Unknown; Chuyển về thermal mặc định trên dòng 8Gen1+
 2.2.0.1; Unknown; Tắt nâng bàn phím cho dòng Mi Pad
+2.2.0.3; Tính năng mới; Tăng âm lượng, và chất lượng cho loa ngoài
+2.2.0.3; Tính năng mới; Chuyển sang trình cấp quyền của Google thay vì MIUI
+2.2.0.3; Sửa lỗi; Icon vân tay trong màn đè nút Khẩn cấp
+2.2.0.3; Sửa lỗi; Icon thông báo bị ô vuông khi chuyển từ chế độ MIUI sang Android
+2.2.0.3; Sửa lỗi; Trình cuộc gọi, sms của google không hoạt động
+2.2.0.3; Sửa lỗi; Một số app sẽ bị crash nếu không cấp quyền đọc thông tin thiết bị
+2.2.0.3; Sửa lỗi; Không hiện cuộc gọi lên màn hình khóa ( Zalo, Viper .. )
+2.2.0.3; Sửa lỗi; Pin tụt nhanh và nhiệt độ bị tăng đột ngột
