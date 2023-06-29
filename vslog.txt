@@ -37,7 +37,7 @@
 2.2.0.1; Unknown; Tắt nâng bàn phím cho dòng Mi Pad
 2.2.0.3; Tính năng mới; Tăng âm lượng, và chất lượng cho loa ngoài
 2.2.0.3; Tính năng mới; Chuyển sang trình cấp quyền của Google thay vì MIUI
-2.2.0.3; Tính năng mới; Cho thu âm từ mic + màn hình khi quay màn hình
+2.2.0.3; Tính năng mới; Cho phép thu âm từ mic + màn hình khi quay màn hình
 2.2.0.3; Sửa lỗi; Icon vân tay trong màn đè nút Khẩn cấp
 2.2.0.3; Sửa lỗi; Icon thông báo bị ô vuông khi chuyển từ chế độ MIUI sang Android
 2.2.0.3; Sửa lỗi; Trình cuộc gọi, sms của google không hoạt động
