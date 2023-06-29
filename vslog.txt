@@ -45,3 +45,4 @@
 2.2.0.3; Sửa lỗi; Không hiện cuộc gọi lên màn hình khóa ( Zalo, Viper .. )
 2.2.0.3; Sửa lỗi; Pin tụt nhanh và nhiệt độ bị tăng đột ngột
 2.2.0.3; Sửa lỗi; Thi thoảng bị mất âm thanh (Dolby atmos)
+2.2.0.3; Sửa lỗi; Google Map bị mất vị trí khi tắt màn hình
