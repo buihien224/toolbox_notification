@@ -47,3 +47,6 @@
 2.2.0.3; Sửa lỗi; Thi thoảng bị mất âm thanh (Dolby atmos)
 2.2.0.3; Sửa lỗi; Google Map bị mất vị trí khi tắt màn hình
 2.2.0.3; Sửa lỗi; Không kết nối được smartwatch samsung
+2.2.0.3; Tính năng mới; Hiển thị thời gian sử dụng Màn hình trong Pin
+2.2.0.3; Sửa lỗi; Dịch thêm nhiều chỗ : Quyền, Download, MIUI+ .. vv
+
