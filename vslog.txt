@@ -51,8 +51,10 @@
 2.2.0.4; Sửa lỗi; Dịch thêm nhiều chỗ : Quyền, Download, MIUI+ .. vv
 2.2.0.4; Sửa lỗi; Rất nhiều ứng dụng không thể xoay ngang - Mipad
 2.2.0.4; Sửa lỗi; Tất cả app tự động bật autostart
-2.2.0.4; Sửa lỗi; Thư vị không nhận dạng được chữ, widget lỗi
+2.2.0.4; Sửa lỗi; Thư viện không nhận dạng được chữ, widget lỗi
 2.2.0.4; Sửa lỗi; Âm lượng một số máy bị to quá mức
 2.2.0.4; Sửa lỗi; Dual app bị reboot
+2.2.0.4; Sửa lỗi; Bị random nhảy vào recovery mode
+
 
 
