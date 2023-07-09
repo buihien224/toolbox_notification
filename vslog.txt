@@ -55,6 +55,6 @@
 2.2.0.4; Sửa lỗi; Âm lượng một số máy bị to quá mức
 2.2.0.4; Sửa lỗi; Dual app bị reboot
 2.2.0.4; Sửa lỗi; Bị random nhảy vào recovery mode
-
+2.2.0.4; Sửa lỗi; Quay trở lại trình cấp quyền MIUI nhưng vẫn không bị lỗi
 
 
