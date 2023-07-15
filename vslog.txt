@@ -60,3 +60,4 @@
 2.2.0.6; Sửa lỗi; "Luôn cho phép" không hoạt động
 2.2.0.6; Tính năng mới; Hỗ trợ sử dụng theme trên dòng Mipad
 2.2.0.6; Tính năng mới; Thay đổi đường dẫn Screenshot sang Pictures
+2.2.0.6; Sửa lỗi; Cập nhật bản dịch Tiếng Việt
