@@ -57,4 +57,6 @@
 2.2.0.5; Sửa lỗi; Bị random nhảy vào recovery mode
 2.2.0.5; Sửa lỗi; Quay trở lại trình cấp quyền MIUI nhưng vẫn không bị lỗi
 2.2.0.5; Sửa lỗi; Thiếu logo Leica ở 1 số bản rom Stable
-
+2.2.0.6; Sửa lỗi; "Luôn cho phép" không hoạt động
+2.2.0.6; Tính năng mới; Hỗ trợ sử dụng theme trên dòng Mipad
+2.2.0.6; Tính năng mới; Thay đổi đường dẫn Screenshot sang Pictures
