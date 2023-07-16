@@ -1,13 +1,8 @@
-Changelog 58
-  - Add Release button to direct download update
-  - Add Copy button to copy token
-  - Add Refesh button to re-fetch data without re-open
-  - Remove unused function
-  - Multi-theard download rom
-  - Display internet speed, estimated time
-  - Fixed lost rom when close tool ( portable )
-  - Fixed Super partition not flash 
+Changelog 59
+  - Add checking patch method
+  - Rename Sever list
+  - Mirror improvement
 
 Download and Update now !
-  - https://github.com/buihien224/toolbox_notification/releases/tag/58
+  - https://github.com/buihien224/toolbox_notification/releases/tag/59
   
