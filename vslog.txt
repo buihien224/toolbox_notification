@@ -65,3 +65,8 @@
 2.2.0.6; Tính năng mới; Khôi phục vdex , odex của framework
 2.2.0.6; Sửa lỗi; Cập nhật bản dịch Tiếng Việt
 2.2.0.6; Sửa lỗi; Thông báo cuộc gọi đến không thoát được ( Zalo và các app tương tự )
+2.2.0.7; Sửa lỗi; Không thể cấp quyền Vị trí ( luôn luôn ) 
+2.2.0.7; Tính năng mới; Sử dụng trình cấp quyền Google
+2.2.0.7; Tính năng mới; Cho phép bật Overlay Clipboard, icon Volte bằng cách chuyển đổi sang thanh trạng thái Android
+2.2.0.7; Tính năng mới; Thêm mục riêng tư trong cài đặt
+
