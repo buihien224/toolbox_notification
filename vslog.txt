@@ -69,4 +69,6 @@
 2.2.0.7; Tính năng mới; Sử dụng trình cấp quyền Google
 2.2.0.7; Tính năng mới; Cho phép bật Overlay Clipboard, icon Volte bằng cách chuyển đổi sang thanh trạng thái Android
 2.2.0.7; Tính năng mới; Thêm mục riêng tư trong cài đặt
-
+2.2.0.8; Sửa lỗi; Mọi vấn đề liên quan đến cấp quyền
+2.2.0.8; Tính năng mới; Hỗ trợ song song trình cấp quyền Google và MIUI ( mội số app bike cần cấp quyền google để chạy )
+2.2.0.8; Tính năng mới; Pass safetynet ở mức Hardware_Backed
