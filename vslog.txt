@@ -72,3 +72,7 @@
 2.2.0.8; Sửa lỗi; Mọi vấn đề liên quan đến cấp quyền
 2.2.0.8; Tính năng mới; Hỗ trợ song song trình cấp quyền Google và MIUI ( mội số app bike cần cấp quyền google để chạy )
 2.2.0.8; Tính năng mới; Pass safetynet ở mức Hardware_Backed
+2.2.0.9; Sửa lỗi; Mở app bị chậm, hoặc đứng khi mở lại
+2.2.0.9; Sửa lỗi; Không thể mở Hành vi ứng dụng
+2.2.0.9; Tính năng mới; Thêm khung thiết bị khi chụp ảnh màn hình
+
