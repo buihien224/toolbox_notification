@@ -84,4 +84,5 @@
 2.3.0.0; Sửa lỗi; Bị đứng app , treo màn hình splash
 2.3.0.0; Sửa lỗi; Dual app trên thiết bị chạy Android 12
 2.3.0.0; Sửa lỗi; Treo boot trên K30 Ultra
+2.3.0.0; Linh tinh; Bỏ qua Force FPS trên dòng máy LTPO
 
