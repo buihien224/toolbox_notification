@@ -76,3 +76,12 @@
 2.2.0.9; Sửa lỗi; Không thể mở Hành vi ứng dụng
 2.2.0.9; Sửa lỗi; Dual app bị treo với các máy cũ (K30 series)
 2.2.0.9; Tính năng mới; Thêm khung thiết bị khi chụp ảnh màn hình
+2.3.0.0; Tính năng mới; Update Camera 5.0 cho gần như mọi máy được hỗ trợ
+2.3.0.0; Tính năng mới; Thêm filter Leica trong phần chỉnh sửa ảnh
+2.3.0.0; Tính năng mới; Xóa tính năng bản đồ trong Thư viện
+2.3.0.0; Sửa lỗi; Trình bảo mật gây hao pin ở 1 số máy
+2.3.0.0; Sửa lỗi; Chỉnh sửa chế độ nâng Gboard để dễ bấm hơn
+2.3.0.0; Sửa lỗi; Bị đứng app , treo màn hình splash
+2.3.0.0; Sửa lỗi; Dual app trên thiết bị chạy Android 12
+2.3.0.0; Sửa lỗi; Treo boot trên K30 Ultra
+
