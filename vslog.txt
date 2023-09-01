@@ -85,4 +85,9 @@
 2.3.0.0; Sửa lỗi; Dual app trên thiết bị chạy Android 12
 2.3.0.0; Sửa lỗi; Treo boot trên K30 Ultra
 2.3.0.0; Linh tinh; Bỏ qua Force FPS trên dòng máy LTPO
-
+2.3.0.1; Tính năng mới; Hỗ trợ thiết bị MixFold3
+2.3.0.1; Sửa lỗi; Thiếu một số cài đặt tính năng trong phần cài đặt, sửa lại một số cài đặt như Chạm, Thẻ chức năng,..
+2.3.0.1; Sửa lỗi; Tối ưu ứng dụng Trình bảo mật, Kho tiện ích, Camera Leica
+2.3.0.2; Tính năng mới; Cải thiện độ mượt hoạt ảnh chuyển động khi mở ứng dụng
+2.3.0.2; Sửa lỗi; Cải thiện và tối ưu hóa Trình bảo mật, Kho tiện ích
+2.3.0.2; Sửa lỗi; Sửa lỗi một số tính năng trong phần cài đặt
