@@ -4,7 +4,7 @@
 2.1.0.8; Tính năng mới; Thêm chuyển độ sáng thủ công mượt mà
 2.1.0.8; Tính năng mới; Thêm đồ họa cao cho game Vương Giả Vinh Diệu
 2.1.0.8; Sửa lỗi; Theme màn hình khóa hoạt động không chính xác
-2.1.0.8; Sửa lỗi; Thay đổ phương thức Crack theme
+2.1.0.8; Sửa lỗi; Thay đổi phương thức Crack theme
 2.1.0.8; Sửa lỗi; MEMC không hoạt đông ở màn hình ngang
 2.1.0.8; Sửa lỗi; Làm đẹp không hoạt động trên thiết bị 8G2
 2.1.0.8; Sửa lỗi; Lựa chọn chế độ Tiết kiệm pin không hoạt động
@@ -86,8 +86,9 @@
 2.3.0.0; Sửa lỗi; Treo boot trên K30 Ultra
 2.3.0.0; Linh tinh; Bỏ qua Force FPS trên dòng máy LTPO
 2.3.0.1; Tính năng mới; Hỗ trợ thiết bị MixFold3
-2.3.0.1; Sửa lỗi; Thiếu một số cài đặt tính năng trong phần cài đặt, sửa lại một số cài đặt như Chạm, Thẻ chức năng,..
+2.3.0.1; Sửa lỗi; Thiếu một số cài đặt tính năng trong phần cài đặt, sửa lại một số cài đặt như Chạm, Thẻ chức năng,...
 2.3.0.1; Sửa lỗi; Tối ưu ứng dụng Trình bảo mật, Kho tiện ích, Camera Leica
 2.3.0.2; Tính năng mới; Cải thiện độ mượt hoạt ảnh chuyển động khi mở ứng dụng
 2.3.0.2; Sửa lỗi; Cải thiện và tối ưu hóa Trình bảo mật, Kho tiện ích
 2.3.0.2; Sửa lỗi; Sửa lỗi một số tính năng trong phần cài đặt
+2.3.0.2; Sửa lỗi; Redmi K60 Ultra không khởi động được
