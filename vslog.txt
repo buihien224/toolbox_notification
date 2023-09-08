@@ -86,9 +86,13 @@
 2.3.0.0; Sửa lỗi; Treo boot trên K30 Ultra
 2.3.0.0; Linh tinh; Bỏ qua Force FPS trên dòng máy LTPO
 2.3.0.1; Tính năng mới; Hỗ trợ thiết bị MixFold3
-2.3.0.1; Sửa lỗi; Thiếu một số cài đặt tính năng trong phần cài đặt, sửa lại một số cài đặt như Chạm, Thẻ chức năng,...
+2.3.0.1; Sửa lỗi; Thiếu một số cài đặt tính năng trong phần cài đặt, sửa lại một số cài đặt như Chạm, Chế độ chống nhấp nháy,...
 2.3.0.1; Sửa lỗi; Tối ưu ứng dụng Trình bảo mật, Kho tiện ích, Camera Leica
 2.3.0.2; Tính năng mới; Cải thiện độ mượt hoạt ảnh chuyển động khi mở ứng dụng
 2.3.0.2; Sửa lỗi; Cải thiện và tối ưu hóa Trình bảo mật, Kho tiện ích
 2.3.0.2; Sửa lỗi; Sửa lỗi một số tính năng trong phần cài đặt
 2.3.0.2; Sửa lỗi; Redmi K60 Ultra không khởi động được
+2.3.0.3; Nâng cấp; Cải thiện độ ổn định hệ thống, một số ứng dụng Miui được cập nhật
+2.3.0.3; Hỗ trợ; Redmi K60 Ultra (corot) hiện đã được hỗ trợ
+2.3.0.3; Sửa lỗi; Hao pin do Trình bảo mật
+2.3.0.3; Sửa lỗi; 144hz trên K60 Ultra
