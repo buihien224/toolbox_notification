@@ -96,3 +96,4 @@
 2.3.0.3; Hỗ trợ; Redmi K60 Ultra (corot) hiện đã được hỗ trợ
 2.3.0.3; Sửa lỗi; Hao pin do Trình bảo mật
 2.3.0.3; Sửa lỗi; 144hz trên K60 Ultra
+2.3.0.4; Sửa lỗi; Trình NFC kiểu cũ ( để bật HCE )
