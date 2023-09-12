@@ -89,7 +89,7 @@
 2.3.0.1; Sửa lỗi; Thiếu một số cài đặt tính năng trong phần cài đặt, sửa lại một số cài đặt như Chạm, Chế độ chống nhấp nháy,...
 2.3.0.1; Sửa lỗi; Tối ưu ứng dụng Trình bảo mật, Kho tiện ích, Camera Leica
 2.3.0.2; Tính năng mới; Cải thiện độ mượt hoạt ảnh chuyển động khi mở ứng dụng
-2.3.0.2; Sửa lỗi; Cải thiện và tối ưu hóa Trình bảo mật, Kho tiện ích
+2.3.0.2; Sửa lỗi; Cải thiện và tối ưu hóa Trình bảo mật, App vault
 2.3.0.2; Sửa lỗi; Sửa lỗi một số tính năng trong phần cài đặt
 2.3.0.2; Sửa lỗi; Redmi K60 Ultra không khởi động được
 2.3.0.3; Nâng cấp; Cải thiện độ ổn định hệ thống, một số ứng dụng thuộc hệ thống MIUI được cập nhật
@@ -98,3 +98,4 @@
 2.3.0.3; Sửa lỗi; 144hz trên K60 Ultra
 2.3.0.4; Sửa lỗi; Trình NFC kiểu cũ ( để bật HCE )
 2.3.0.4; Cập nhật; Xoá ứng dụng kích hoạt SIM của Xiaomi (Xiaomi SIM Activation Service)
+2.3.0.4; Cập nhật; Khôi phục tính năng bấm đúp vào nút nguồn để mở thẻ thông minh
