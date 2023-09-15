@@ -100,3 +100,4 @@
 2.3.0.4; Cập nhật mới; Xoá ứng dụng kích hoạt SIM của Xiaomi (Xiaomi SIM Activation Service)
 2.3.0.4; Cập nhật mới; Khôi phục tính năng bấm đúp vào nút nguồn để mở thẻ thông minh
 2.3.0.4; Cập nhật mới; Xoá ứng dụng Joyose để tăng hiệu suất thiết bị
+2.3.0.4; Cập nhật mới; Không bao giờ đóng ứng dụng đang chạy trên nền (cải thiện khả năng đa nhiệm)
