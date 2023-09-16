@@ -91,7 +91,7 @@
 2.3.0.2; Nâng cấp; Cải thiện độ mượt hoạt ảnh chuyển động khi mở ứng dụng
 2.3.0.2; Sửa lỗi; Cải thiện và tối ưu hóa Trình bảo mật, App vault,..
 2.3.0.2; Sửa lỗi; Redmi K60 Ultra không khởi động được
-2.3.0.3; Nâng cấp; Cải thiện độ ổn định hệ thống, một số ứng dụng thuộc hệ thống MIUI được cập nhật, joyose mặc định
+2.3.0.3; Nâng cấp; Cải thiện độ ổn định hệ thống, một số ứng dụng thuộc hệ thống MIUI được cập nhật, Joyose mặc định
 2.3.0.3; Hỗ trợ; Redmi K60 Ultra (corot) hiện đã được hỗ trợ
 2.3.0.3; Sửa lỗi; Hao pin do Trình bảo mật
 2.3.0.3; Sửa lỗi; 144hz trên K60 Ultra
@@ -103,4 +103,5 @@
 2.3.0.4; Cập nhật mới; Xoá ứng dụng Joyose để tăng hiệu suất thiết bị
 2.3.0.4; Cập nhật mới; Không bao giờ đóng ứng dụng đang chạy trên nền (cải thiện khả năng đa nhiệm)
 2.3.0.4; Cập nhật mới; Cập nhật Magisk v26.3 cho tùy chọn 'Magisk Boot' trong Toolbox
-2.3.0.5; Sắp ra mắt…
+2.3.0.4; Cập nhật mới; Loại bỏ khoảng cách nâng phần dưới cùng của bàn phím Gboard (Gboard giờ đã hỗ trợ chức năng 'Đổi kích thước' trên bàn phím)
+2.3.0.5; Tính năng mới; Sắp ra mắt…
