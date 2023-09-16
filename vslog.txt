@@ -97,6 +97,7 @@
 2.3.0.3; Sửa lỗi; 144hz trên K60 Ultra
 2.3.0.4 đã có bản cập nhật; Phiên bản mới sẽ sớm triển khai cho các dòng máy Xiaomi; ...
 2.3.0.4; Tính năng mới; Sử dụng cấp quyền Google
+2.3.0.4; Dịch thuật; Ứng dụng Taplus và Smart cards đã được dịch sang tiếng Việt
 2.3.0.4; Sửa lỗi; Trình NFC kiểu cũ ( để bật HCE )
 2.3.0.4; Sửa lỗi; Tính năng sao lưu không làm việc khi sử dụng cấp quyền Google
 2.3.0.4; Cập nhật mới; Xoá ứng dụng kích hoạt SIM của Xiaomi (Xiaomi SIM Activation Service)
