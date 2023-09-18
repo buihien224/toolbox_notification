@@ -100,9 +100,9 @@
 2.3.0.4; Dịch thuật; Ứng dụng Taplus và Smart cards đã được dịch sang tiếng Việt
 2.3.0.4; Sửa lỗi; Trình NFC kiểu cũ ( để bật HCE )
 2.3.0.4; Sửa lỗi; Tính năng sao lưu không làm việc khi sử dụng cấp quyền Google
-2.3.0.4; Cập nhật mới; Xoá ứng dụng kích hoạt SIM của Xiaomi (Xiaomi SIM Activation Service)
+2.3.0.4; Cập nhật mới; Cho phép gỡ cài đặt 'Khung dịch vụ Xiaomi'
 2.3.0.4; Cập nhật mới; Khôi phục tính năng bấm đúp vào nút nguồn để mở thẻ thông minh
-2.3.0.4; Cập nhật mới; Xoá ứng dụng Joyose để tăng hiệu suất thiết bị
+2.3.0.4; Cập nhật mới; Patch ứng dụng Joyose để tăng hiệu suất thiết bị
 2.3.0.4; Cập nhật mới; Không bao giờ đóng ứng dụng đang chạy trên nền (cải thiện khả năng đa nhiệm)
 2.3.0.4; Cập nhật mới; Cập nhật Magisk v26.3 cho tùy chọn 'Magisk Boot' trong Toolbox
-2.3.0.4; Cập nhật mới; Loại bỏ chế độ nâng Gboard (Gboard giờ đã hỗ trợ chức năng 'Đổi kích thước' trên bàn phím)
+2.3.0.4; Cập nhật mới; Chế độ nâng Gboard cải tiến (Gboard giờ đã hỗ trợ chức năng 'Đổi kích thước' trên bàn phím)
