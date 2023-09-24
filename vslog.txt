@@ -105,7 +105,7 @@
 2.3.0.4; Cập nhật mới; Không bao giờ đóng ứng dụng đang chạy trên nền (cải thiện khả năng đa nhiệm)
 2.3.0.4; Cập nhật mới; Cập nhật Magisk v26.3 cho tùy chọn 'Magisk Boot' trong Toolbox
 2.3.0.4; Cập nhật mới; Chế độ nâng Gboard cải tiến (Gboard giờ đã hỗ trợ chức năng 'Đổi kích thước' trên bàn phím)
-2.4.ST; Thông báo; Thay đổi cách đặt tên từ x.y.0.z thành x.y.ST (x.y là số phiên bản ST hoặc DEV là nhanh ROM ) 
+2.4.ST; Thông báo; Thay đổi cách đặt tên từ x.y.0.z thành x.y.ST (x.y là số phiên bản ST hoặc DEV là nhánh ROM ) 
 2.4.ST; Thông báo; Bổ sung thêm Sever test rom dành riêng cho Tester
 2.4.ST; Dịch thuật; Ngoài ứng dụng Smart cards được dịch sang tiếng Việt thì chúng tôi đã bổ sung thêm ứng dụng Wallet trong bản dịch tiếng Việt lần này
 2.4.ST; Sửa lỗi; Không hiện màn hình cuộc gọi đến khi có người gọi
