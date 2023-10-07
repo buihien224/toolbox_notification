@@ -115,7 +115,12 @@
 2.4; Sửa lỗi; Xóa bỏ thông báo "Cho phép mở ứng dụng XYZ"
 2.4; Sửa lỗi; Xử lý lỗi quá nhiệt cho 1 số máy ( do XOpt gây ra )
 2.4; Sửa lỗi; Mất chế độ mạng ưu tiên
-2.5; Cập nhật mới; Bản dịch tiếng Việt mới của các ứng dụng (Bảo mật, Thẻ thông minh, Cảnh báo khẩn cấp,...) đầy đủ và chính xác hơn
+2.5; Cập nhật mới; Bản dịch tiếng Việt mới của các ứng dụng (Bảo mật, Thẻ thông minh, Cảnh báo khẩn cấp) đầy đủ và chính xác
 2.5; Sửa lỗi; Thiếu bộ lọc Leica trong Camera 5.0
 2.5; Sửa lỗi; Thiếu tùy chọn mở ứng dụng Wallet trong cài đặt trên Redmi K60 Ultra
 2.5; Sửa lỗi; Ứng dụng Wallet không thấy bản dịch tiếng Việt
+2.6; Dịch thuật; Sửa lại logic và thêm bản dịch cho ứng dụng "Bảo mật"
+2.6; Dịch thuật; Sửa lỗi bản dịch "Lịch" bị sai nghĩa, sai chính tả
+2.6; Dịch thuật; Joyose với tên gọi mới "Trí tuệ thông minh"
+2.6; Dịch thuật; "Cửa sổ nổi", "Dấu vết hệ thống" đã thêm bản dịch tiếng Việt
+2.6; Tính năng mới; Sớm ra mắt…
