@@ -120,9 +120,9 @@
 2.5; Sửa lỗi; Thiếu tùy chọn mở ứng dụng Wallet trong cài đặt trên Redmi K60 Ultra
 2.5; Sửa lỗi; Ứng dụng Wallet không thấy bản dịch tiếng Việt
 2.6; Tính năng mới; Hỗ trợ mạng 5G kép
+2.6; Cập nhật mới; Xoá nội dung Trung Quốc trong cài đặt SIM
+2.6; Sửa lỗi; Đã sửa lỗi không thể đặt tốc độ làm mới trong những máy dùng MTK SoC ( Cezanne, Ruby, .. )
 2.6; Dịch thuật; Thêm bản dịch cho ứng dụng "Bảo mật"
 2.6; Dịch thuật; Sửa lỗi bản dịch  ứng dụng "Lịch" bị sai nghĩa, sai chính tả
 2.6; Dịch thuật; Joyose với tên gọi mới "Trí tuệ thông minh"
 2.6; Dịch thuật; "Cửa sổ nổi", "Theo dõi hệ thống" đã thêm bản dịch tiếng Việt
-2.6; Sửa lỗi; Đã sửa lỗi không thể đặt tốc độ làm mới trong MTK SoC ( Cezanne, Ruby .. )
-2.6; Cập nhật mới; Xoá nội dung Trung Quốc trong cài đặt SIM
