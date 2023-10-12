@@ -120,6 +120,7 @@
 2.5; Sửa lỗi; Thiếu tùy chọn mở ứng dụng Wallet trong cài đặt trên Redmi K60 Ultra
 2.5; Sửa lỗi; Ứng dụng Wallet không thấy bản dịch tiếng Việt
 2.6; Tính năng mới; Hỗ trợ mạng 5G kép
+2.6; Tính năng mới; Tự động xóa Cache sau mỗi lần reboot
 2.6; Cập nhật mới; Xoá nội dung Trung Quốc trong cài đặt SIM
 2.6; Cập nhật mới; Tìm kiếm danh bạ từ bàn phím cuộc gọi với 0 ở đầu ( ví dụ tìm 0974 sẽ ra số trong danh bạ )
 2.6; Sửa lỗi; Không thể đặt tốc độ làm mới trong những máy dùng MTK SoC ( Cezanne, Ruby, .. )
