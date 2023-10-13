@@ -126,7 +126,6 @@
 2.6; Sửa lỗi; Không thể đặt tốc độ làm mới trong những máy dùng MTK SoC ( Cezanne, Ruby, .. )
 2.6; Sửa lỗi; Google Tin nhắn, Cuộc gọi không đọc được tên danh bạ đã lưu
 2.6; Sửa lỗi; Không vào được widget của Android 
-2.6; Dịch thuật; Thêm bản dịch cho ứng dụng "Bảo mật"
+2.6; Dịch thuật; Thêm bản dịch cho các ứng dụng hệ thống ( Bảo mật,GetApps ,Theo dõi hệ thống,... )
 2.6; Dịch thuật; Sửa lỗi bản dịch  ứng dụng "Lịch" bị sai nghĩa, sai chính tả
 2.6; Dịch thuật; Joyose với tên gọi mới "Trí tuệ thông minh"
-2.6; Dịch thuật; "Cửa sổ nổi", "Theo dõi hệ thống" đã thêm bản dịch tiếng Việt
