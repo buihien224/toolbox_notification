@@ -124,6 +124,7 @@
 2.6; Cập nhật mới; Xoá nội dung Trung Quốc trong cài đặt SIM
 2.6; Cập nhật mới; Tìm kiếm danh bạ từ bàn phím cuộc gọi với 0 ở đầu ( ví dụ tìm 0974 sẽ ra số trong danh bạ )
 2.6; Sửa lỗi; Không thể đặt tốc độ làm mới trong những máy dùng MTK SoC ( Cezanne, Ruby, .. )
+2.6; Sửa lỗi; Trình cấp quyền MIUI hoạt động hoàn hảo
 2.6; Sửa lỗi; Google Tin nhắn, Cuộc gọi không đọc được tên danh bạ đã lưu
 2.6; Sửa lỗi; Không vào được widget của Android 
 2.6; Dịch thuật; Thêm bản dịch cho các ứng dụng hệ thống ( Bảo mật,GetApps ,Theo dõi hệ thống,... )
