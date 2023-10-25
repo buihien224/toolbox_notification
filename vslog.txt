@@ -133,7 +133,11 @@
 2.6; Dịch thuật; Sửa lỗi bản dịch  ứng dụng "Lịch" bị sai nghĩa, sai chính tả
 2.6; Dịch thuật; Joyose với tên gọi mới "Trí tuệ thông minh"
 2.7; Tính năng mới; Sắp ra mắt…
-2.7; Cập nhật mới; Loại bỏ một số audio.prop bên trong hệ điều hành
+2.7; Cập nhật mới; Loại bỏ và cập nhật một số audio.prop bên trong hệ điều hành
+2.7; Cập nhật mới; Cập nhật cấu hình tùy chọn tốc độ làm tươi
+2.7; Cập nhật mới; Cập nhật cấu hình của màn hình ( để phù hợp với cấu hình tùy chọn tốc độ làm tươi mới )
 2.7; Dịch thuật; Bản dịch tiếng Việt ( global ) hoàn hảo cho "Cài đặt"
-2.7; Dịch thuật; Hệ thống Android cập nhật bản dịch tiếng Việt
-2.7; Dịch thuật; Trình cấp quyền cập nhật bản dịch tiếng Việt ( global )
+2.7; Dịch thuật; "Hệ thống Android" cập nhật bản dịch tiếng Việt
+2.7; Dịch thuật; "Giao diện người dùng hệ thống" cập nhật bản dịch tiếng Việt
+2.7; Dịch thuật; "Trình cắm UI hệ thống", "Trình cắm dịch vụ hệ thống" cập nhật bản dịch tiếng Việt đầy đủ
+2.7; Dịch thuật; "Trình cấp quyền" bổ sung bản dịch tiếng Việt
