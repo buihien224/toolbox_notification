@@ -135,6 +135,7 @@
 2.7; Tính năng mới; Sắp ra mắt…
 2.7; Cập nhật mới; Loại bỏ và cập nhật một số audio.prop bên trong hệ điều hành
 2.7; Cập nhật mới; Cập nhật cấu hình tùy chọn tốc độ làm tươi
+2.7; Cập nhật mới; Mở khóa toàn bộ Filter Leica và Khung Leica, Redmi, Disney trong Chỉnh sửa ảnh
 2.7; Cập nhật mới; Cập nhật cấu hình của màn hình ( để phù hợp với cấu hình tùy chọn tốc độ làm tươi mới )
 2.7; Dịch thuật; Bản dịch tiếng Việt ( global ) hoàn hảo cho "Cài đặt"
 2.7; Dịch thuật; "Hệ thống Android" cập nhật bản dịch tiếng Việt
