@@ -141,3 +141,5 @@
 2.7; Dịch thuật; "Giao diện người dùng hệ thống" cập nhật bản dịch tiếng Việt
 2.7; Dịch thuật; "Trình cắm UI hệ thống", "Trình cắm dịch vụ hệ thống" cập nhật bản dịch tiếng Việt đầy đủ
 2.7; Dịch thuật; "Trình cấp quyền" bổ sung bản dịch tiếng Việt
+2.7; Sửa lỗi; Quyền "Danh Bạ" không thực thi
+2.7; Sửa lỗi; Trình sửa ảnh - AI không hoạt động
