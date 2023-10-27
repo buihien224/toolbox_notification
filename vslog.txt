@@ -143,7 +143,7 @@
 2.7; Dịch thuật; "Trình cắm UI hệ thống", "Trình cắm dịch vụ hệ thống" cập nhật bản dịch tiếng Việt
 2.7; Dịch thuật; "Trình cấp quyền" bổ sung bản dịch tiếng Việt
 2.7; Dịch thuật; "MIUI+ beta" khi cập nhật lên phiên bản 15.** trở lên sẽ có tên gọi mới là "Dịch vụ kết nối thiết bị"
-2.7; Dịch thuật; "Bảo mật" phiên bản mới được port từ HyperOS nay đã có bản dịch tiếng Việt ( Lưu ý: Chỉ các bản build từ 18h 27/10/2023 trở mới có bản dịch đầy đủ nhất )
+2.7; Dịch thuật; "Bảo mật" phiên bản mới được port từ HyperOS nay đã có bản dịch tiếng Việt ( Lưu ý: Chỉ các bản build từ 18h 27/10/2023 trở lên mới có bản dịch đầy đủ nhất )
 2.7; Sửa lỗi; Quyền "Danh Bạ" không thực thi
 2.7; Sửa lỗi; Trình sửa ảnh - AI không hoạt động
 2.7; Sửa lỗi; Không hiển thị lịch âm trên thanh trạng thái (null)
