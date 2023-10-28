@@ -132,18 +132,18 @@
 2.6; Dịch thuật; Thêm bản dịch cho các ứng dụng hệ thống ( Bảo mật, GetApps, Theo dõi hệ thống, ... )
 2.6; Dịch thuật; Sửa lỗi bản dịch  ứng dụng "Lịch" bị sai nghĩa, sai chính tả
 2.6; Dịch thuật; Joyose với tên gọi mới "Trí tuệ thông minh"
-2.7; Tính năng mới; Sắp ra mắt…
-2.7; Cập nhật mới; Loại bỏ và cập nhật một số audio.prop bên trong hệ điều hành
+2.7; Dấu ấn kết thúc; 2.7.ST sẽ là phiên bản ổn định cuối cùng của MIUI. 
+2.7; Cập nhật mới; Cấu hình âm thanh mới tăng cường chất lượng âm thanh
 2.7; Cập nhật mới; Cập nhật cấu hình tùy chọn tốc độ làm tươi
 2.7; Cập nhật mới; Mở khóa toàn bộ Filter Leica và Khung Leica, Redmi, Disney trong Chỉnh sửa ảnh
 2.7; Cập nhật mới; Cập nhật cấu hình của màn hình ( để phù hợp với cấu hình tùy chọn tốc độ làm tươi mới )
 2.7; Dịch thuật; Bản dịch tiếng Việt ( global ) hoàn hảo cho "Cài đặt"
-2.7; Dịch thuật; "Hệ thống Android" cập nhật bản dịch tiếng Việt
+2.7; Dịch thuật; "Hệ thống Android" cập nhật lại bản dịch tiếng Việt
 2.7; Dịch thuật; "Giao diện người dùng hệ thống" cập nhật bản dịch tiếng Việt nâng cao trải nghiệm ứng dụng thứ ba hiển thị thông báo UI được dịch toàn bộ
 2.7; Dịch thuật; "Trình cắm UI hệ thống", "Trình cắm dịch vụ hệ thống" cập nhật bản dịch tiếng Việt
 2.7; Dịch thuật; "Trình cấp quyền" bổ sung bản dịch tiếng Việt
 2.7; Dịch thuật; "MIUI+ beta" khi cập nhật lên phiên bản 15.** trở lên sẽ có tên gọi mới là "Dịch vụ kết nối thiết bị"
-2.7; Dịch thuật; "Bảo mật" phiên bản mới được port từ HyperOS nay đã có bản dịch tiếng Việt ( Lưu ý: Chỉ các bản build từ 18h 27/10/2023 trở lên mới có bản dịch đầy đủ nhất )
+2.7; Dịch thuật; "Bảo mật", "Tin nhắn", "Thời tiết" phiên bản mới được port từ HyperOS nay đã bổ sung bản dịch tiếng Việt đầy đủ
 2.7; Sửa lỗi; Quyền "Danh Bạ" không thực thi
 2.7; Sửa lỗi; Trình sửa ảnh - AI không hoạt động
-2.7; Sửa lỗi; Không hiển thị lịch âm trên thanh trạng thái (null)
+2.7; Sửa lỗi; Không hiển thị lịch âm trên thanh trạng thái
