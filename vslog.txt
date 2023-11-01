@@ -137,17 +137,12 @@
 2.7; Cập nhật mới; Cập nhật cấu hình tùy chọn tốc độ làm tươi
 2.7; Cập nhật mới; Mở khóa toàn bộ Filter Leica và Khung Leica, Redmi, Disney trong Chỉnh sửa ảnh
 2.7; Cập nhật mới; Cập nhật cấu hình của màn hình (để phù hợp với cấu hình tùy chọn tốc độ làm tươi mới)
-2.7; Cập nhật mới; Khôi phục prop âm thanh mặc định (update 01/11)
+2.7; Cập nhật mới; Khôi phục prop hình ảnh âm thanh mặc định update 01/11
 2.7; Dịch thuật; Bản dịch tiếng Việt (global) hoàn hảo cho "Cài đặt"
-2.7; Dịch thuật; "Hệ thống Android" cập nhật lại bản dịch tiếng Việt
-2.7; Dịch thuật; "Giao diện người dùng hệ thống" cập nhật bản dịch tiếng Việt nâng cao trải nghiệm ứng dụng thứ ba hiển thị thông báo UI được dịch toàn bộ
-2.7; Dịch thuật; "Trình cắm UI hệ thống", "Trình cắm dịch vụ hệ thống" cập nhật bản dịch tiếng Việt
+2.7; Dịch thuật; "Hệ thống Android", "Trình cắm UI hệ thống", "Giao diện người dùng hệ thống", "Trình cắm dịch vụ hệ thống" cập nhật bản dịch tiếng Việt
 2.7; Dịch thuật; "Trình cấp quyền" bổ sung bản dịch tiếng Việt
-2.7; Dịch thuật; "MIUI+ beta" khi cập nhật lên phiên bản 15.** trở lên sẽ có tên gọi mới là "Dịch vụ kết nối thiết bị"
-2.7; Dịch thuật; "Bảo mật", "Tin nhắn", "Thời tiết" phiên bản mới được port từ HyperOS nay đã bổ sung bản dịch tiếng Việt đầy đủ
-2.7; Dịch thuật; "Quyền" thêm bản dịch tiếng Việt (update 01/11)
+2.7; Dịch thuật; "Dịch vụ kết nối thiết bị" thêm bản dịch tiếng Việt
+2.7; Dịch thuật; "Bảo mật", "Tin nhắn", "Thời tiết", "Lịch" HyperOS đã bổ sung bản dịch tiếng Việt
 2.7; Sửa lỗi; Quyền "Danh Bạ" không thực thi
 2.7; Sửa lỗi; Trình sửa ảnh - AI không hoạt động
-2.7; Sửa lỗi; Không hiển thị lịch âm trên thanh trạng thái
-2.7: Sửa lỗi; Lỗi chính tả và sửa một số câu sai nghĩa trong phần "Cài đặt" (update 01/11)
-2.7; Sửa lỗi; "Bảo mật" bị thiếu bản dịch tiếng Việt (update 01/11)
+2.7: Sửa lỗi; Lỗi chính tả và sửa một số câu sai nghĩa trong phần "Cài đặt"
