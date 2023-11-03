@@ -146,3 +146,4 @@
 2.7; Sửa lỗi; Quyền "Danh Bạ" không thực thi
 2.7; Sửa lỗi; Trình sửa ảnh - AI không hoạt động
 2.7: Sửa lỗi; Lỗi chính tả và sửa một số câu sai nghĩa trong phần "Cài đặt"
+2.7: Sửa lỗi; Hao pin khi để qua đêm
