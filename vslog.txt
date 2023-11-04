@@ -147,9 +147,9 @@
 2.7; Sửa lỗi; Trình sửa ảnh - AI không hoạt động
 2.7: Sửa lỗi; Lỗi chính tả và sửa một số câu sai nghĩa trong phần "Cài đặt"
 2.7: Sửa lỗi; Hao pin khi để qua đêm
-2.7.FN1; Tính năng mới; Hỗ trợ HDR trên Netflix
-2.7.FN1; Sửa lỗi; OK Google (Hey Google) không hoạt động
-2.7.FN1; Sửa lỗi; RSC cố định không hoạt động
-2.7.FN1; Sửa lỗi; Khắc phục một số lỗi liên quan (tự khởi chạy,cấp quyền, hao pin..) do "Bảo mật" phiên bản HyperOS gây ra
-2.7.FN1; Sửa lỗi; "Lịch" quay trở lại phiên bản MIUI
-2.7.FN1; Dịch thuật; Thêm, sửa và xoá lỗi chính tả trong một số ứng dụng hệ thống
+2.7.01; Tính năng mới; Hỗ trợ xem phim HDR trên Netflix
+2.7.01; Sửa lỗi; OK Google (Hey Google) không hoạt động
+2.7.01; Sửa lỗi; RSC cố định không hoạt động
+2.7.01; Sửa lỗi; Khắc phục một số lỗi liên quan (tự khởi chạy,cấp quyền, hao pin..) do "Bảo mật" phiên bản HyperOS gây ra
+2.7.01; Sửa lỗi; "Lịch" quay trở lại phiên bản MIUI
+2.7.01; Dịch thuật; Thêm, sửa và xoá lỗi chính tả trong một số ứng dụng hệ thống
