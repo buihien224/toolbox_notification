@@ -144,4 +144,4 @@
 2.7; Dịch thuật; Thêm, sửa và xoá lỗi chính tả trong một số ứng dụng hệ thống
 2.7; Sửa lỗi; Quyền "Danh Bạ" không thực thi, hao pin khi để qua đêm
 2.7; Sửa lỗi; Trình sửa ảnh - AI không hoạt động, OK Google, RSC cố định không hoạt động
-2.7; Sửa lỗi; Thông báo trên màn hình khoá và gỡ bỏ bản sao lưu
+2.7; Sửa lỗi; Thông báo trên màn hình khoá và gỡ bỏ bản patch ứng dụng sao lưu
