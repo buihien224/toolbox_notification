@@ -132,24 +132,23 @@
 2.6; Dịch thuật; Thêm bản dịch cho các ứng dụng hệ thống ( Bảo mật, GetApps, Theo dõi hệ thống, ... )
 2.6; Dịch thuật; Sửa lỗi bản dịch  ứng dụng "Lịch" bị sai nghĩa, sai chính tả
 2.6; Dịch thuật; Joyose với tên gọi mới "Trí tuệ thông minh"
-2.7; Dấu ấn kết thúc; 2.7.ST sẽ là phiên bản ổn định cuối cùng của MIUI. 
+2.7; Dấu ấn kết thúc; 2.7FN? sẽ là phiên bản ổn định cuối cùng của MIUI.
+2.7; Tính năng mới; Hỗ trợ xem phim HDR trên Netflix
 2.7; Cập nhật mới; Cấu hình âm thanh mới tăng cường chất lượng âm thanh trên một số thiết bị
-2.7; Cập nhật mới; Cập nhật cấu hình tùy chọn tốc độ làm tươi
+2.7; Cập nhật mới; Cấu hình tùy chọn tốc độ làm tươi mới
 2.7; Cập nhật mới; Mở khóa toàn bộ Filter Leica và Khung Leica, Redmi, Disney trong Chỉnh sửa ảnh
-2.7; Cập nhật mới; Cập nhật cấu hình của màn hình (để phù hợp với cấu hình tùy chọn tốc độ làm tươi mới)
-2.7; Cập nhật mới; Khôi phục prop hình ảnh âm thanh mặc định update 01/11
+2.7; Cập nhật mới; Tính năng chỉnh màu phong cách khi bật Thanh bên khôi phục về mặc định (vì có nhiều màu chỉnh không có tác dụng)
 2.7; Dịch thuật; Bản dịch tiếng Việt (global) hoàn hảo cho "Cài đặt"
-2.7; Dịch thuật; "Hệ thống Android", "Trình cắm UI hệ thống", "Giao diện người dùng hệ thống", "Trình cắm dịch vụ hệ thống" cập nhật bản dịch tiếng Việt
+2.7; Dịch thuật; Trọn bộ ứng dụng hệ thống cập nhật bản dịch tiếng Việt
 2.7; Dịch thuật; "Trình cấp quyền" bổ sung bản dịch tiếng Việt
 2.7; Dịch thuật; "Dịch vụ kết nối thiết bị" thêm bản dịch tiếng Việt
-2.7; Dịch thuật; "Bảo mật", "Tin nhắn", "Thời tiết", "Lịch" HyperOS đã bổ sung bản dịch tiếng Việt
+2.7; Dịch thuật; "Bảo mật", "Tin nhắn", "Thời tiết" phiên bản HyperOS đã bổ sung bản dịch tiếng Việt
+2.7; Dịch thuật; Thêm, sửa và xoá lỗi chính tả trong một số ứng dụng hệ thống
 2.7; Sửa lỗi; Quyền "Danh Bạ" không thực thi
 2.7; Sửa lỗi; Trình sửa ảnh - AI không hoạt động
 2.7: Sửa lỗi; Lỗi chính tả và sửa một số câu sai nghĩa trong phần "Cài đặt"
 2.7: Sửa lỗi; Hao pin khi để qua đêm
-2.7.01; Tính năng mới; Hỗ trợ xem phim HDR trên Netflix
-2.7.01; Sửa lỗi; OK Google (Hey Google) không hoạt động
-2.7.01; Sửa lỗi; RSC cố định không hoạt động
-2.7.01; Sửa lỗi; Khắc phục một số lỗi liên quan (tự khởi chạy,cấp quyền, hao pin..) do "Bảo mật" phiên bản HyperOS gây ra
-2.7.01; Sửa lỗi; "Lịch" quay trở lại phiên bản MIUI
-2.7.01; Dịch thuật; Thêm, sửa và xoá lỗi chính tả trong một số ứng dụng hệ thống
+2.7; Sửa lỗi; OK Google (Hey Google) không hoạt động
+2.7; Sửa lỗi; RSC cố định không hoạt động
+2.7; Sửa lỗi; Khắc phục một số lỗi liên quan (tự khởi chạy,cấp quyền, hao pin..) do "Bảo mật" phiên bản HyperOS gây ra
+2.7; Sửa lỗi; "Lịch" quay trở lại phiên bản MIUI
