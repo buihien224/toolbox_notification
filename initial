@@ -1,12 +1,9 @@
-Changelog 59
-  - Add checking patch method
-  - Rename Sever list
-  - Mirror improvement
-
-  Sever1 > GoogleDrive
-  Sever2 > OneDrive ( New ROM will be upload here)
-  Sever3 > OneDrive1
+Changelog 61
+ - Fixed cant flashing Root image in some device
+ - Fixed too many spam err
+ - Added : Get direct link function ( only for paid user )
+ - Set default sever is OneDrive1
 
 Download and Update now !
-  - https://github.com/buihien224/toolbox_notification/releases/tag/59
+  - https://github.com/buihien224/toolbox_notification/releases/tag/61
   
