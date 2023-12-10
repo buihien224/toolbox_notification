@@ -152,3 +152,6 @@ VS1.0; Tâm sự; Thay vì patch những giá trị True False vô tri như trư
 VS1.0; Tâm sự; Trình cấp quyền giờ đây sẽ không bị lỗi khi cài những app của Google, cũng như không lỗi các app bên thứ 3 
 VS1.0; Tâm sự; Thông báo vẫn được ưu tiên hàng đầu mặc dù pin sẽ yếu hơn rom gốc đôi chút, nhưng đó là sự đánh đổi không thể tránh khỏi 
 VS1.0; Tâm sự; Cảm ơn các bạn vì đã đồng hành cùng bọn mình đến thời điểm hiện tại, bọn mình sẽ cố gắng hết sức có thể để mang lại bản ROM tốt nhất
+VS1.1 ; Sửa lỗi; Quét bảo mật không hoạt động
+VS1.1 ; Sửa lỗi; Độ sâu trường ảnh không hoạt động
+VS1.1 ; Sửa lỗi; Tách nền trong app thư viện không hoạt động
