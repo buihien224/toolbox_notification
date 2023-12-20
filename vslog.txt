@@ -155,3 +155,9 @@ VS1.0; Tâm sự; Cảm ơn các bạn vì đã đồng hành cùng bọn mình 
 VS1.1; Sửa lỗi; Quét bảo mật không hoạt động
 VS1.1; Sửa lỗi; Độ sâu trường ảnh không hoạt động
 VS1.1; Sửa lỗi; Tách nền trong app thư viện không hoạt động
+VS1.3; Sửa lỗi; Văng app chỉnh sửa ảnh khi vào mục cắt ảnh
+VS1.3; Sửa lỗi; Bị khởi động lại ngẫu nhiên trên K60 Ultra ( HyperOS )
+VS1.3; Dịch thuật; Update bản dịch
+VS1.3; Cập nhật mới; Thêm tính năng chỉnh sửa màu nền ứng dụng ( vd : chrome, mail, gmail )
+VS1.3; Cập nhật mới; Hỗ trợ bong bóng chat HyperOS ( tính năng của Hyper không phải của Android )
+
