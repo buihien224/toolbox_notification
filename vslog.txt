@@ -160,4 +160,9 @@ VS1.3; Sửa lỗi; Bị khởi động lại ngẫu nhiên trên K60 Ultra ( Hy
 VS1.3; Dịch thuật; Update bản dịch
 VS1.3; Cập nhật mới; Thêm tính năng chỉnh sửa màu nền ứng dụng ( vd : chrome, mail, gmail )
 VS1.3; Cập nhật mới; Hỗ trợ bong bóng chat HyperOS ( tính năng của Hyper không phải của Android )
+VS1.4; Sửa lỗi; Khi ấn giữ nút nguồn nó không lên ngay mà trễ vài giây mới hiện menu tắt nguồn
+VS1.4; Sửa lỗi; Không thể điều khiển điện thoại từ Mipad ( Smarthub )
+VS1.4; Cập nhật mới; Bỏ qua xác thực tài khoản Xiaomi khi cài đặt apk
+VS1.4; Cập nhật mới; Hỗ trợ HyperOS for Pad và Hyper OS global
+
 
