@@ -164,5 +164,5 @@ VS1.4; Sửa lỗi; Khi ấn giữ nút nguồn nó không lên ngay mà trễ v
 VS1.4; Sửa lỗi; Không thể điều khiển điện thoại từ Mipad ( Smarthub )
 VS1.4; Cập nhật mới; Bỏ qua xác thực tài khoản Xiaomi khi cài đặt apk
 VS1.4; Cập nhật mới; Hỗ trợ HyperOS for Pad và Hyper OS global
-
+VS1.4; Cập nhật mới; Ẩn trạng thái 4G, 5G khi kết nối wifi
 
