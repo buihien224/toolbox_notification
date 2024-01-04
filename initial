@@ -1,9 +1,12 @@
-Changelog 61
- - Fixed cant flashing Root image in some device
- - Fixed too many spam err
- - Added : Get direct link function ( only for paid user )
- - Set default sever is OneDrive1
+Changelog 62
+ - Fixed cant check, download, flash FREE rom
+ - Fixed cant download Paid rom without plug phone
+ - Fixed Print Error randomly
+ - Add Giftcode action , now u can receive gift without provide token
+ - Add new blocking method, now we will block your device instead your PC
+ - Now we call FREE and PAID version instead VIETSUB and MIUIVS
+ - Remove Allow TWRP Install
 
 Download and Update now !
-  - https://github.com/buihien224/toolbox_notification/releases/tag/61
+  - https://github.com/buihien224/toolbox_notification/releases/tag/62
   
