@@ -168,6 +168,7 @@ VS1.4; Cập nhật mới; Ẩn trạng thái 4G, 5G khi kết nối wifi
 VS1.7; Cập nhật mới; Tăng số lượng icon trên thanh trạng thái là 5
 VS1.7; Cập nhật mới; Xóa bỏ hoàn toàn ngôn ngữ trung quốc trong app Lịch
 VS1.7; Cập nhật mới; Hỗ trợ ứng dụng chủ đề Global
+VS1.7; Cập nhật mới; Thêm khung chụp ảnh màn hình cho các thiết bị mới ( Mi14, K70 )
 VS1.7; Cập nhật mới; Xóa bỏ game thermal - hạn chế drop FPS
 VS1.7; Sửa lỗi; Crash app bảo mật trong 1 số bản build
 VS1.7; Sửa lỗi; Chức năng tắt icon thông báo không hoạt động
