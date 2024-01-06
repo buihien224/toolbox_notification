@@ -165,4 +165,12 @@ VS1.4; Sửa lỗi; Không thể điều khiển điện thoại từ Mipad ( Sm
 VS1.4; Cập nhật mới; Bỏ qua xác thực tài khoản Xiaomi khi cài đặt apk
 VS1.4; Cập nhật mới; Hỗ trợ HyperOS for Pad và Hyper OS global
 VS1.4; Cập nhật mới; Ẩn trạng thái 4G, 5G khi kết nối wifi
-
+VS1.7; Cập nhật mới; Tăng số lượng icon trên thanh trạng thái là 5
+VS1.7; Cập nhật mới; Xóa bỏ hoàn toàn ngôn ngữ trung quốc trong app Lịch
+VS1.7; Cập nhật mới; Hỗ trợ ứng dụng chủ đề Global
+VS1.7; Cập nhật mới; Xóa bỏ game thermal - hạn chế drop FPS
+VS1.7; Sửa lỗi; Crash app bảo mật trong 1 số bản build
+VS1.7; Sửa lỗi; Chức năng tắt icon thông báo không hoạt động
+VS1.7; Sửa lỗi; Một số dòng máy bị reboot khi set tiếng Việt
+VS1.7; Sửa lỗi; Pin qua qua đêm bị tụt nhiều
+VS1.7; Dịch thuật; Update bản dịch
