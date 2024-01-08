@@ -178,4 +178,5 @@ VS1.7; Dịch thuật; Update bản dịch
 VS1.8; Dịch thuật; Thêm bản dịch cho framework-ext-res
 VS1.8; Cập nhật mới; Tắt cloudcontrol và default_config của joyose
 VS1.8; Cập nhật mới; Vô hiệu hóa kill ứng dụng của app Powerkeeper
+VS1.8; Cập nhật mới; Loại bỏ giới hạn FPS trong HyperOS
 
