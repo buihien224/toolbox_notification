@@ -175,3 +175,7 @@ VS1.7; Sửa lỗi; Chức năng tắt icon thông báo không hoạt động
 VS1.7; Sửa lỗi; Một số dòng máy bị reboot khi set tiếng Việt
 VS1.7; Sửa lỗi; Pin qua qua đêm bị tụt nhiều
 VS1.7; Dịch thuật; Update bản dịch
+VS1.8; Dịch thuật; Thêm bản dịch cho framework-ext-res
+VS1.8; Cập nhật mới; Tắt cloudcontrol và default_config của joyose
+VS1.8; Cập nhật mới; Vô hiệu hóa kill ứng dụng của app Powerkeeper
+
