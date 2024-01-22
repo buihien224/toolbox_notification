@@ -1,9 +1,29 @@
-{
-  "PRODUCT": "CatS60",
-  "DEVICE": "CatS60",
-  "MANUFACTURER": "BullittGroupLimited",
-  "BRAND": "Cat",
-  "MODEL": "S60",
-  "FINGERPRINT": "Cat/CatS60/CatS60:6.0.1/MMB29M/LTE_D0201121.0_S60_0.031.02:user/release-keys",
-  "FIRST_API_LEVEL" : "23"
-}
+[
+  {
+    "PRODUCT": "Ares",
+    "DEVICE": "le_ares",
+    "MANUFACTURER": "Coolpad",
+    "BRAND": "Coolpad",
+    "MODEL": "C105-8",
+    "FINGERPRINT": "Coolpad/Ares/le_ares:6.0.1/VDXCNCM5810105230S/buildfarm05232047:user/release-keys",
+    "FIRST_API_LEVEL": "23"
+  },
+  {
+    "PRODUCT": "CatS60",
+    "DEVICE": "CatS60",
+    "MANUFACTURER": "BullittGroupLimited",
+    "BRAND": "Cat",
+    "MODEL": "S60",
+    "FINGERPRINT": "Cat/CatS60/CatS60:6.0.1/MMB29M/LTE_D0201121.0_S60_0.031.02:user/release-keys",
+    "FIRST_API_LEVEL": "23"
+  },
+  {
+    "PRODUCT": "F30",
+    "DEVICE": "HS6735MT",
+    "MANUFACTURER": "Hisense",
+    "BRAND": "Hisense",
+    "MODEL": "Hisense F30",
+    "FINGERPRINT": "Hisense/F30/HS6735MT:6.0/MRA58K/L1228.6.01.01:user/release-keys",
+    "FIRST_API_LEVEL": "23"
+  }
+]
