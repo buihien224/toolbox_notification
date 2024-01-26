@@ -1,12 +1,5 @@
-Changelog 62
- - Fixed cant check, download, flash FREE rom
- - Fixed cant download Paid rom without plug phone
- - Fixed Print Error randomly
- - Add Giftcode action , now u can receive gift without provide token
- - Add new blocking method, now we will block your device instead your PC
- - Now we call FREE and PAID version instead VIETSUB and MIUIVS
- - Remove Allow TWRP Install
-
-Download and Update now !
-  - https://github.com/buihien224/toolbox_notification/releases/tag/62
-  
+Changelog 63
+- Add Filter HyperOS/MIUI
+- Add Custom branch for custom build
+- Add Stop Download to stop downloading , no need restart tool to stop
+- Fixed "createprocess failed; code 740." when install PT version
