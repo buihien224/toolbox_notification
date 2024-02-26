@@ -1,5 +1,5 @@
-Changelog 63
-- Add Filter HyperOS/MIUI
-- Add Custom branch for custom build
-- Add Stop Download to stop downloading , no need restart tool to stop
-- Fixed "createprocess failed; code 740." when install PT version
+Changelog 64
+ - Clean code and remove junk print
+ - Historical synchronization
+ - Add Copy MAC in Block window
+ -  Mirror improve performance
