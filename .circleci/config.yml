@@ -12,7 +12,7 @@ jobs:
         - run: |
             	for apk_file in $(sudo find -type f -name "*.apk") ; do
                   echo $apk_file
-                  package_name=$(sudo aapt2 dump $apk_file )
+                  package_name=$(sudo aapt2 dump $apk_file >/dev/null 2>&1 | grep 'Package name=' )
                   echo "$apk_file:$package_name"
               done
 
