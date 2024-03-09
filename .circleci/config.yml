@@ -15,7 +15,7 @@ jobs:
         - run: pip3 install telebot
         - run: pip3 install pytz
         - run: |
-            	for apk_file in $(sudo find -type f -name *.apk) ; do
+            	for apk_file in $(sudo find -type f -name "*.apk") ; do
                   package_name=$(sudo aapt2 dump packagename $apk_file )
                   echo "$apk_file:$package_name"
               done
