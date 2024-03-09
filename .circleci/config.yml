@@ -1,0 +1,22 @@
+version: 2.1
+
+jobs:
+  build:
+    machine:
+      image: ubuntu-2004:2023.04.2
+    
+    steps:
+        - checkout
+        - run: echo $CIRCLE_BUILD_URL
+        - run: sudo apt-get install -y git wget zip unzip android-sdk-libsparse-utils brotli axel python3-pip zipalign apksigner xmlstarlet vim aapt p7zip-full
+        - run: python3 -m pip install pip --upgrade
+        - run: pip3 install pyopenssl==24.0.0
+        - run: pip3 install ConfigObj 
+        - run: pip3 install telebot
+        - run: pip3 install pytz
+        - run: |
+            	for apk_file in $(sudo find -type f -name *.apk) ; do
+                  package_name=$(sudo aapt2 dump packagename $apk_file )
+                  echo "$apk_file:$package_name"
+              done
+
