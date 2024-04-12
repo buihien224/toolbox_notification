@@ -1,6 +1,8 @@
-Changelog 64
- - Clean code and remove junk print
- - Historical synchronization
- - Add Copy MAC in Block window
- - Add Logcat Action
- - Mirror improve performance
+Changelog 65
+   - HyperVS 3.0 and above now only flash via Toolbox 65
+   - Add ROM filter, now you never flash wrong version
+      + STABLE
+      + DEVELOP 
+      + PRE-RELEASE
+   - New Toolbox will collect user operations for better support purposes
+   
