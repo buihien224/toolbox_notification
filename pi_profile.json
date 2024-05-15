@@ -1,11 +1,11 @@
 [
-  {
-  "PRODUCT": "griffin_retcn",
-  "DEVICE": "griffin",
+{
+  "PRODUCT": "clark_retus",
+  "DEVICE": "clark",
   "MANUFACTURER": "motorola",
   "BRAND": "motorola",
-  "MODEL": "XT1650-05",
-  "FINGERPRINT": "motorola/griffin_retcn/griffin:6.0.1/MCC24.246-37/42:user/release-keys",
-  "FIRST_API_LEVEL": "23"
-  }
+  "MODEL": "XT1575",
+  "FINGERPRINT": "motorola/clark_retus/clark:6.0/MPHS24.49-18-8/4:user/release-keys",
+  "FIRST_API_LEVEL": "25"
+}
 ]
