@@ -1,6 +1,10 @@
-Changelog 66
-   - Compatible with HyperVS 3.0
-   - Older versions have stopped working
-   
-   * Note : Re-download Tool 66 if it not working !
+Changes in VSTool 67
+   - Redesign UI , more convenient
+   - Remove List server , only Onedrive left
+   - Rename PRE-RELEASE to PREVIEW
+   - Add warning when install PREVIEW rom
+   - Add filter CN or Global base rom
+   - Fixed Choose Action : Magisk Boot
+   - Fixed Cust warning error
+   - Fixed Auth not automatic appear
    
