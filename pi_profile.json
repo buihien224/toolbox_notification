@@ -1,11 +1,11 @@
 [
   {
-    "PRODUCT": "sailfish",
-    "DEVICE": "sailfish",
+    "PRODUCT": "husky_beta",
+    "DEVICE": "husky",
     "MANUFACTURER": "Google",
     "BRAND": "google",
-    "MODEL": "Pixel",
-    "FINGERPRINT": "google/sailfish/sailfish:8.1.0/OPM1.171019.011/4448085:user/release-keys",
+    "MODEL": "Pixel 8 Pro",
+    "FINGERPRINT": "google/husky_beta/husky:15/AP31.240617.015/12207491:user/release-keys",
     "FIRST_API_LEVEL": "25"
   }
 ]
