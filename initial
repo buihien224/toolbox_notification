@@ -1,5 +1,6 @@
 Changes in VSTool 68
    - Fix checking list
    - Fix logcat file not save
+   - Fix bootloader status not correctly
    - Remove unused function
    - Clean code
