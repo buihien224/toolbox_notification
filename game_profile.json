@@ -1,0 +1,98 @@
+{
+  "0": {
+    "spoof": {
+      "model": "2SM-X706B",
+      "brand": "blackshark"
+    },
+    "packageObj": {
+      "0": "com.proximabeta.mf.uamo"
+    }
+  },
+  "1": {
+    "spoof": {
+      "model": "2107113SI",
+      "brand": "Xiaomi"
+    },
+    "packageObj": {
+      "0": "com.ea.gp.apexlegendsmobilefps",
+      "1": "com.levelinfinite.hotta.gp",
+      "2": "com.supercell.clashofclans",
+      "3": "com.vng.mlbbvn"
+    }
+  },
+  "2": {
+    "spoof": {
+      "model": "2210132C",
+      "brand": "Xiaomi"
+    },
+    "packageObj": {
+      "0": "com.levelinfinite.sgameGlobal",
+      "1": "com.tencent.tmgp.sgame",
+      "2": "com.vng.pubgmobile",
+      "3": "com.tencent.tmgp.pubgmhd",
+      "4": "com.pubg.imobile",
+      "5": "com.pubg.krmobile",
+      "6": "com.rekoo.pubgm",
+      "7": "com.tencent.ig"
+    }
+  },
+  "3": {
+    "spoof": {
+      "model": "IN2020",
+      "brand": "OnePlus"
+    },
+    "packageObj": {
+      "0": "com.netease.lztgglobal",
+      "1": "com.riotgames.league.wildrift",
+      "2": "com.riotgames.league.wildrifttw",
+      "3": "com.riotgames.league.wildriftvn"
+    }
+  },
+  "4": {
+    "spoof": {
+      "model": "LE2101",
+      "brand": "OnePlus"
+    },
+    "packageObj": {
+      "0": "com.epicgames.fortnite",
+      "1": "com.epicgames.portal",
+      "2": "com.tencent.lolm"
+    }
+  },
+  "5": {
+    "spoof": {
+      "model": "23049PCD8G",
+      "brand": "Xiaomi"
+    },
+    "packageObj": {
+      "0": "com.dts.freefiremax",
+      "1": "com.dts.freefireth",
+      "2": "com.mobile.legends"
+    }
+  },
+  "6": {
+    "spoof": {
+      "model": "ASUS_AI2201",
+      "brand": "asus"
+    },
+    "packageObj": {
+      "0": "com.activision.callofduty.shooter",
+      "1": "com.ea.gp.fifamobile",
+      "2": "com.gameloft.android.ANMP.GloftA9HM",
+      "3": "com.madfingergames.legends",
+      "4": "com.pearlabyss.blackdesertm",
+      "5": "com.pearlabyss.blackdesertm.gl"
+    }
+  },
+  "7": {
+    "spoof": {
+      "model": "SO-52A",
+      "brand": "Sony"
+    },
+    "packageObj": {
+      "0": "com.garena.game.codm",
+      "1": "com.tencent.tmgp.kr.codm",
+      "2": "com.vng.codmvn"
+    }
+  }
+}
