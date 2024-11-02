@@ -1,23 +1,5 @@
 [
   {
-    "PRODUCT": "oriole_beta",
-    "DEVICE": "oriole",
-    "MANUFACTURER": "Google",
-    "BRAND": "google",
-    "MODEL": "Pixel 6",
-    "FINGERPRINT": "google/oriole_beta/oriole:15/AP41.240823.009/12329489:user/release-keys",
-    "FIRST_API_LEVEL": "31"
-  },
-  {
-    "PRODUCT": "tokay_beta",
-    "DEVICE": "tokay",
-    "MANUFACTURER": "Google",
-    "BRAND": "google",
-    "MODEL": "Pixel 9",
-    "FINGERPRINT": "google/tokay_beta/tokay:15/AP41.240823.009/12329489:user/release-keys",
-    "FIRST_API_LEVEL": "31"
-  },
-  {
     "PRODUCT": "akita_beta",
     "DEVICE": "akita",
     "MANUFACTURER": "Google",
