@@ -86,8 +86,8 @@
   },
   {
     "spoof": {
-      "model": "SO-52A",
-      "brand": "Sony"
+      "model": "V2403A"
+      "brand": "Vivo"
     },
     "packageObj": [
       "com.garena.game.codm",
