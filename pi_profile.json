@@ -1,12 +1,10 @@
 [
   {
-    "PRODUCT": "tokey_beta",
-    "DEVICE": "tokey",
+    "FINGERPRINT": "google/oriole_beta/oriole:Baklava/BP22.250124.009/13034193:user/release-keys",
     "MANUFACTURER": "Google",
-    "BRAND": "google",
-    "MODEL": "Pixel 9",
-    "FINGERPRINT": "google/tokey_beta/tokey:Baklava/BP22.250124.009/13034193:user/release-keys",
-    "FIRST_API_LEVEL": "21",
+    "MODEL": "Pixel 6",
+    "SECURITY_PATCH": "2025-02-05",
+    "FIRST_API_LEVEL": 21,
     "KEYBOX":""
   }
 ]
