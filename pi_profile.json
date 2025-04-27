@@ -5,6 +5,7 @@
     "MODEL": "Pixel 9a",
     "SECURITY_PATCH": "2025-04-05",
     "FIRST_API_LEVEL": 21,
-    "KEYBOX":""
+    "KEYBOX":"",
+    "KEYATTESTION":1
   }
 ]
