@@ -1,9 +1,9 @@
 [
   {
-    "FINGERPRINT": "google/oriole_beta/oriole:16/BP22.250221.010/13193326:user/release-keys",
+    "FINGERPRINT": "google/tegu_beta/tegu:16/BP22.250325.007/13352765:user/release-keys",
     "MANUFACTURER": "Google",
-    "MODEL": "Pixel 6",
-    "SECURITY_PATCH": "2025-03-05",
+    "MODEL": "Pixel 9a",
+    "SECURITY_PATCH": "2025-04-05",
     "FIRST_API_LEVEL": 21,
     "KEYBOX":""
   }
