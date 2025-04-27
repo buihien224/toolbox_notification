@@ -6,6 +6,6 @@
     "SECURITY_PATCH": "2025-04-05",
     "FIRST_API_LEVEL": 21,
     "KEYBOX":"",
-    "KEYATTESTION":1
+    "KEYATTESTION":0
   }
 ]
